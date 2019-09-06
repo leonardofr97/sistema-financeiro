@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/SoN_Financeiro.csproj": {}
+  },
+  "projects": {
+    "/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/SoN_Financeiro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/SoN_Financeiro.csproj",
+        "projectName": "SoN_Financeiro",
+        "projectPath": "/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/SoN_Financeiro.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0-preview6.19303.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

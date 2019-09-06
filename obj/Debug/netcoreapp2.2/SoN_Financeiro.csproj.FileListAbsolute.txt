@@ -1,0 +1,11 @@
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/bin/Debug/netcoreapp2.2/SoN_Financeiro.deps.json
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/bin/Debug/netcoreapp2.2/SoN_Financeiro.runtimeconfig.json
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/bin/Debug/netcoreapp2.2/SoN_Financeiro.runtimeconfig.dev.json
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/bin/Debug/netcoreapp2.2/SoN_Financeiro.dll
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/bin/Debug/netcoreapp2.2/SoN_Financeiro.pdb
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.csprojAssemblyReference.cache
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.csproj.CoreCompileInputs.cache
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.AssemblyInfoInputs.cache
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.AssemblyInfo.cs
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.dll
+/home/leonardo/AnaliseEstacio/Estudo/School of Net/C#/SoN_Financeiro/obj/Debug/netcoreapp2.2/SoN_Financeiro.pdb
